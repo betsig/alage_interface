@@ -1,0 +1,3 @@
+*.csv
+.DS_Store*
+web_app/data/__pycache__/
